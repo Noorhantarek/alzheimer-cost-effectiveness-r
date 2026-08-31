@@ -53,3 +53,16 @@ R/
 ├── 06_patient_simulation.R
 ├── 07_vectorised_simulation.R
 └── 08_performance_comparison.R
+
+# Status
+
+🚧 Work in progress
+
+The repository is being developed progressively as part of a practical refresh
+of health economic modelling in R.
+
+# Notes
+
+Model inputs used during development will be illustrative or derived from
+publicly available sources. No proprietary client models, confidential inputs
+or restricted data will be included.
