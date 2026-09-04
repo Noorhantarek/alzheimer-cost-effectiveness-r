@@ -20,6 +20,7 @@ The repository is intended to demonstrate and refresh practical skills in:
 - cohort Markov modelling
 - cost and QALY accumulation
 - incremental cost-effectiveness analysis
+- Model validation 
 - deterministic sensitivity analysis
 - probabilistic sensitivity analysis
 - patient-level simulation
