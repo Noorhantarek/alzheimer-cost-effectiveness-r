@@ -16,6 +16,7 @@ between conventional and vectorised R implementations.
 
 The repository is intended to demonstrate and refresh practical skills in:
 
+- Parameters and transition probabilities
 - cohort Markov modelling
 - cost and QALY accumulation
 - incremental cost-effectiveness analysis
